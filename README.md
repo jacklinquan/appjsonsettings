@@ -1,4 +1,5 @@
 # appjsonsettings
+[![PyPI version](https://badge.fury.io/py/appjsonsettings.svg)](https://badge.fury.io/py/appjsonsettings) [![Downloads](https://pepy.tech/badge/appjsonsettings)](https://pepy.tech/project/appjsonsettings)
 
 A simple python package for easy application settings in JSON format.
 
