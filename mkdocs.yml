@@ -1,0 +1,19 @@
+site_name: appjsonsettings
+site_description: A Python module for easy application settings in JSON format.
+site_author: Quan Lin
+
+repo_url: https://github.com/jacklinquan/appjsonsettings
+edit_uri: ""
+
+theme:
+    name: readthedocs
+
+nav:
+    - Home: index.md
+    - API Documentation: api.md
+
+copyright: Copyright &copy; 2022 <a href="https://github.com/jacklinquan">Quan Lin</a>.
+
+plugins:
+    - search
+    - mkapi

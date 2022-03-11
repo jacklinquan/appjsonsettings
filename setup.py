@@ -2,9 +2,8 @@ from setuptools import setup
 
 setup(
     name="appjsonsettings",
-    version="0.1.0",
-    description="A simple python package for easy application settings in JSON " + \
-        "format.",
+    version="0.2.0",
+    description="A Python module for easy application settings in JSON format.",
     long_description="https://github.com/jacklinquan/appjsonsettings",
     long_description_content_type="text/markdown",
     url="https://github.com/jacklinquan/appjsonsettings",

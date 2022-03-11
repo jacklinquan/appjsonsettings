@@ -1,18 +1,4 @@
 # appjsonsettings
-[![PayPal Donate][paypal_img]][paypal_link]
-[![PyPI version][pypi_img]][pypi_link]
-[![Downloads][downloads_img]][downloads_link]
-[![Documentation Status][docs_img]][docs_link]
-
-  [paypal_img]: https://github.com/jacklinquan/images/blob/master/paypal_donate_badge.svg
-  [paypal_link]: https://www.paypal.me/jacklinquan
-  [pypi_img]: https://badge.fury.io/py/appjsonsettings.svg
-  [pypi_link]: https://badge.fury.io/py/appjsonsettings
-  [downloads_img]: https://pepy.tech/badge/appjsonsettings
-  [downloads_link]: https://pepy.tech/project/appjsonsettings
-  [docs_img]: https://readthedocs.org/projects/appjsonsettings/badge/?version=latest
-  [docs_link]: https://appjsonsettings.readthedocs.io/en/latest/?badge=latest
-
 A Python module for easy application settings in JSON format.
 
 ## Installation
